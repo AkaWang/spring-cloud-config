@@ -1,1 +1,3 @@
 env: uat
+config:
+  info: "asta branch, spring-cloud-config/config-uat.yml version = 1"
