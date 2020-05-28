@@ -1,3 +1,3 @@
 env: dev
 config:
-  info: "asta branch, spring-cloud-config/config-dev.yml version = 4"
+  info: "asta branch, spring-cloud-config/config-dev.yml version = 5"
